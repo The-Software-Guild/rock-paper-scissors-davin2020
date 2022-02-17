@@ -10,7 +10,7 @@ This is a console based version of the Rock Paper Scissors game, made as part of
 4. The game is played in the console ie there no graphical user interface, so enter values when prompted
 
 ## Example Game
-`
+```
 Welcomem to a console-based version of Rock Paper Scissors!
 How many rounds would you like to play?
 2
@@ -39,4 +39,4 @@ Do you want to play again? Enter Y/Yes/1 for Yes or any other key/value for No
 N
 Input could not be understood as 'Yes Play Again', so assuming No
 Thanks for Playing! Bye
-`
+```
